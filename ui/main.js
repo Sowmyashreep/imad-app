@@ -12,6 +12,6 @@ button.onclick=function()
           }
       }  
     };
-    request.open('GET',"https://Sowmyashreep.imad.hasura.io/counter",true);
+    request.open('GET',"https://pksowmyashree.imad.hasura.io/counter",true);
     request.send(null);
 };
